@@ -29,7 +29,11 @@ Run the migrations
 
 Import the sample data
 
-`php artisan seed:migrate`
+`php artisan db:seed`
+
+## build the APP
+
+`npm run dev`
 
 ## Run the APP
 
